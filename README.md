@@ -1,4 +1,5 @@
-# Rafale // This Repo. is for our paper titled "Rafale: Resource-Aware Federated Knowledge Distillation on Heterogeneous Clients"
+# Rafale 
+This Repo. is for our paper titled "Rafale: Resource-Aware Federated Knowledge Distillation on Heterogeneous Clients"
 Step 1: Install All requirement.txt
 step 2: Run the server_code.py 
 # change the port number accordingly
